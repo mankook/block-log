@@ -1,6 +1,6 @@
 # Site settings
 title:        "deel learning동아리"
-description:  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor"
+description:  "급격하게 변화하는 AI, Deep learning에 대한 변화를 알기 쉽게 설명하기 위하여 만들어진 Blog로서 학습 과정에서 발생하는 다양한 정보를 전달할 "
 baseurl:      "" # the subpath of your site, e.g. /blog/
 url:          "http://mankook.github.io" # the base hostname & protocol for your site
 permalink:    /:year/:title
